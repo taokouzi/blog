@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
   const options = {  
     hostname: 'unsplash.com',  
     port: 80,  
-    path: `/napi/topics/wallpapers/photos${url.replace('/napi/topics/wallpapers/photos', '')}`,  
+    path: url,  
     method: req.method,  
     headers: req.headers  
   };  
