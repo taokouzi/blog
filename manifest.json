@@ -1,0 +1,22 @@
+{
+  "version_name": "0.52.170",
+  "name": "讨口子 · 博客",
+  "short_name": "taokouzi",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "zh",
+  "dir": "ltr",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "./logo.png",
+      "type": "image/png",
+      "sizes": "152x152",
+      "purpose": "any"
+    }
+  ]
+}
